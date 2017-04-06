@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa5e9caf-b121-4f2b-9be4-b44b910075a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/authentication_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/_global.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/jwt.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sample_data/sample_data.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sample_data/task_category_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sample_data/task_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sample_data/user_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/sample_data.rake" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20170310035739_create_users.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20170311034703_add_api_key_to_users.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20170311035505_add_passwords_to_users.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20170311045244_user.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20170311050519_remove_name_from_user.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/log/.keep" afterPath="$PROJECT_DIR$/config/global/sample_data.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tmp/.keep" afterPath="$PROJECT_DIR$/config/global/env.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/taskTracker.iml" afterPath="$PROJECT_DIR$/.idea/taskTracker.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/tasks_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/tasks_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/secrets.yml" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20170312010313_add_unique_indexes_to_tasks_and_categories.rb" afterPath="$PROJECT_DIR$/db/migrate/20170312010313_add_unique_indexes_to_tasks_and_categories.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/json_web_token.rb" afterPath="$PROJECT_DIR$/lib/json_web_token.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/users.yml" afterPath="$PROJECT_DIR$/test/fixtures/users.yml" />
-    </list>
+    <list default="true" id="aa5e9caf-b121-4f2b-9be4-b44b910075a1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -743,12 +709,12 @@
       <workItem from="1490542438074" duration="20000" />
       <workItem from="1490542478092" duration="387000" />
       <workItem from="1491060582507" duration="22235000" />
-      <workItem from="1491448732689" duration="97000" />
+      <workItem from="1491448732689" duration="227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68309000" />
+    <option name="totallyTimeSpent" value="68439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
