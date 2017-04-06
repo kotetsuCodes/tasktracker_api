@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="taskTracker_development@localhost" uuid="e71175ec-a386-42bc-9243-7d3160a5f30b">
+      <database-info product="PostgreSQL" version="9.5.6" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>taskTracker</user-name>
+      <introspection-schemas>taskTracker_development:public</introspection-schemas>
+      <resolve-scope>taskTracker_development:public,tasktracker</resolve-scope>
+      <unqualified-resolve-schemas>taskTracker_development:public,tasktracker</unqualified-resolve-schemas>
+    </data-source>
+    <data-source name="taskTracker_production@localhost" uuid="165bffb8-c147-4442-86fc-5bd5c8a0d59a">
+      <database-info product="PostgreSQL" version="9.5.6" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>taskTracker</user-name>
+      <introspection-schemas>taskTracker_production:public</introspection-schemas>
+      <resolve-scope>taskTracker_production:public,tasktracker</resolve-scope>
+      <unqualified-resolve-schemas>taskTracker_production:public,tasktracker</unqualified-resolve-schemas>
+    </data-source>
+    <data-source name="Rails taskTracker: development" uuid="5f39caf9-ab52-42e8-b287-dba7fbbcc24a">
+      <database-info product="PostgreSQL" version="9.5.6" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>taskTracker</user-name>
+      <introspection-schemas>taskTracker_development:public</introspection-schemas>
+      <resolve-scope>taskTracker_development:public,tasktracker</resolve-scope>
+      <unqualified-resolve-schemas>taskTracker_development:public,tasktracker</unqualified-resolve-schemas>
+    </data-source>
+    <data-source name="Rails taskTracker: production" uuid="533aa8e9-862f-4118-b431-b3805e53973a">
+      <database-info product="PostgreSQL" version="9.5.6" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>taskTracker</user-name>
+      <introspection-schemas>taskTracker_production:public</introspection-schemas>
+      <resolve-scope>taskTracker_production:public,tasktracker</resolve-scope>
+      <unqualified-resolve-schemas>taskTracker_production:public,tasktracker</unqualified-resolve-schemas>
+    </data-source>
+    <data-source name="Rails taskTracker: test" uuid="9bdb544f-488d-46df-988f-7e2bfcef9855">
+      <database-info product="PostgreSQL" version="9.5.6" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>taskTracker</user-name>
+      <introspection-schemas>taskTracker_test:public</introspection-schemas>
+      <resolve-scope>taskTracker_test:public,tasktracker</resolve-scope>
+      <unqualified-resolve-schemas>taskTracker_test:public,tasktracker</unqualified-resolve-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+{
+  "name": "tasktracker",
+  "description": "App for keeping track of tasks",
+  "keywords": [
+    "dokku",
+    "rails",
+  ],
+  "scripts": {
+    "dokku": {
+      "postdeploy": "bundle exec rake db:migrate"
+    }
+  }
+}
